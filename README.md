@@ -5,5 +5,5 @@ This Repo contains code to train a machine-learning peptide-MHC binding model on
 I aim to train a
 
 #1) XgBoost Model to benchmark performance
-#2) Neural Network model with self-attention to better handle data from differing peptide lengths, which I hope to do by positional encoding. 
+#2) Neural Network model with self-attention to better handle data from differing peptide length (via positional encoding). 
 
